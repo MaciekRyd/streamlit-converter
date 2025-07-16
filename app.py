@@ -9,7 +9,7 @@ from converter import convert_temperature
 st.set_page_config(page_title="Konwerter jednostek v2.01", page_icon="🌡️")
 
 # Display a main heading on the page with an emoji and text
-st.title("🌡️ Konwerter temperatury v2.01.01")
+st.title("🌡️ Konwerter temperatury v2.01")
 
 # Create a number input widget for users to enter temperature values
 # This creates a text field that only accepts numerical input

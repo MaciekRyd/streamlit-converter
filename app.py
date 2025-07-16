@@ -6,10 +6,10 @@ from converter import convert_temperature
 # Configure the Streamlit page with a custom title and icon
 # page_title: Sets the title that appears in the browser tab
 # page_icon: Sets the emoji icon that appears in the browser tab
-st.set_page_config(page_title="Konwerter jednostek #02", page_icon="🌡️")
+st.set_page_config(page_title="Konwerter jednostek v2.01", page_icon="🌡️")
 
 # Display a main heading on the page with an emoji and text
-st.title("🌡️ Konwerter temperatury")
+st.title("🌡️ Konwerter temperatury v2.01")
 
 # Create a number input widget for users to enter temperature values
 # This creates a text field that only accepts numerical input

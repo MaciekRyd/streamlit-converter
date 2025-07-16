@@ -1,1 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Środowiska wirtualne
+.venv/
 venv/
+
+# Cache narzędzi
+.mypy_cache/
+.pytest_cache/
+.pyre/
+.dmypy.json
+.ipynb_checkpoints/
+.cache/
+coverage/
+
+# Streamlit
+.streamlit/cache/
+.streamlit/config.toml
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# IDE i edytory
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# Logi
+*.log
